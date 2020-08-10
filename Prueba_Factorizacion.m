@@ -1,5 +1,3 @@
-%Factoriza las siguientes expresiones
-
 syms x
 syms y
 factor (x^6+y^6)
